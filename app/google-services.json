@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "107864240862",
+    "firebase_url": "https://blogapp-88145.firebaseio.com",
+    "project_id": "blogapp-88145",
+    "storage_bucket": "blogapp-88145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107864240862:android:dc77a650eb4433f4",
+        "android_client_info": {
+          "package_name": "com.devraj.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107864240862-8sm9u1qvcjov8skdfk80n0r4h164hcqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devraj.blogapp",
+            "certificate_hash": "ce31e696e9afbec6bd45fc0ad6244dac93dae233"
+          }
+        },
+        {
+          "client_id": "107864240862-ff25omck0hdpabr5fek8luf5c3ns8kcu.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "107864240862-ff25omck0hdpabr5fek8luf5c3ns8kcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAioUqzx-eVrQWyUqzvSAHZ2KnF_PsCKOM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107864240862-ff25omck0hdpabr5fek8luf5c3ns8kcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
